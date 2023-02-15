@@ -2,7 +2,7 @@
 
 ## Dataset
 
-**ADNI：**https://adni.loni.usc.edu/
+ADNI：https://adni.loni.usc.edu/
 
 老年痴呆症(AD)、轻度认知障碍(MCI)和老年人对照患者(CN): https://blog.csdn.net/weixin_43444314/article/details/90644839
 
